@@ -3,8 +3,8 @@
 Modern and lightweight boilerplate built with electron, typescript, react, webpack, and mui. This also demonstrates live-reloading and static images.
 
 ![Screenshot](/screenshot-1.png)
-![Screenshot](/screenshot-2.png)
-![Screenshot](/screenshot-3.png)
+![Screenshot](/screenshot-2.PNG)
+![Screenshot](/screenshot-3.PNG)
 ## Major technologies
 
 - [React.js 18](https://reactjs.org/)
